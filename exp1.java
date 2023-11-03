@@ -23,18 +23,10 @@ public class exp1{
        System.out.println(!e);//false(opposite of boolean value)
        System.out.println(!f);//true````-
 
+    }
+}
+       
 
-    public class IF
-      public static void main(string[]args){
-    int a=10;
-    int b=15;
-    if (a>b){
-    System.out.println("a is greater than b");
-}
-else{
-    System.out.println("b is greater than a");
-}
-    }}
 
 
 
